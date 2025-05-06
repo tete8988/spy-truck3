@@ -1,5 +1,19 @@
 body {
   margin: 0;
-  font-family: sans-serif;
+  font-family: Arial, sans-serif;
   background-color: #f3e8ff;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 8px;
+  border: 1px solid #ddd;
+}
+thead {
+  background-color: #e9d5ff;
+}
+button {
+  cursor: pointer;
 }
